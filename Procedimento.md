@@ -1,5 +1,7 @@
 ## Ingressar um computador com **Ubuntu Linux** no **Active Directory**
 
+Link para ajudar o entendimento: https://www.server-world.info/en/note?os=Ubuntu_24.04&p=realmd
+
 Ingressar um computador com **Ubuntu Linux** no **Active Directory** (AD) é um processo que permite que o sistema Linux participe da mesma rede gerenciada centralmente pelo AD, permitindo que os usuários façam login com suas credenciais do AD. O Active Directory é amplamente utilizado em ambientes empresariais, e a integração de sistemas Linux pode ser útil para garantir uma administração centralizada.
 
 A seguir está um guia passo a passo para ingressar um Ubuntu Linux no Active Directory, utilizando ferramentas como o **Realmd**, **SSSD** (System Security Services Daemon) e o **Winbind**.
