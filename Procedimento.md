@@ -1,4 +1,4 @@
-##Ingressar um computador com **Ubuntu Linux** no **Active Directory**
+## Ingressar um computador com **Ubuntu Linux** no **Active Directory**
 
 Ingressar um computador com **Ubuntu Linux** no **Active Directory** (AD) é um processo que permite que o sistema Linux participe da mesma rede gerenciada centralmente pelo AD, permitindo que os usuários façam login com suas credenciais do AD. O Active Directory é amplamente utilizado em ambientes empresariais, e a integração de sistemas Linux pode ser útil para garantir uma administração centralizada.
 
