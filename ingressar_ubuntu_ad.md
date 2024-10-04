@@ -157,6 +157,15 @@ Este autostart ainda não sei como configurar e o quê!!!
 ```bash
 nano /etc/xdg/autostart
 ```
+### 12. Impressoras
+
+Instalei o cliente do samba
+```bash
+apt install smbclient
+```
+Caminho: 
+smb://printserver01.sede.embrapa.br/GGTI_Color
+
 
 
 #### Conclusão
