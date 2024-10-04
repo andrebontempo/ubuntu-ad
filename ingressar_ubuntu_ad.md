@@ -145,5 +145,19 @@ Reinicie o serviço Chrony:
 sudo systemctl restart chrony
 ```
 
+#### 11. Ajustes no ambiente Desktop
+Para desabilitar a lista de usuários na tela de login:
+Ajustar a linha: disable-user-list=true
+
+```bash
+nano /etc/gdm3/greeter.dconf-defaults
+```
+
+Este autostart ainda não sei como configurar e o quê!!!
+```bash
+nano /etc/xdg/autostart
+```
+
+
 #### Conclusão
 Se todos os passos foram seguidos corretamente, seu Ubuntu agora está ingressado no Active Directory, e os usuários do AD podem se autenticar no sistema. Isso garante que você possa gerenciar permissões e logins de maneira centralizada, unificando a administração entre sistemas Windows e Linux.
